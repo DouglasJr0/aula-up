@@ -1,4 +1,4 @@
-# Projeto da Faculdade - Engenharia de Software
+# Atividade Faculdade - Engenharia de Software
 
 Este repositório contém arquivos relacionados a uma matéria do curso de **Engenharia de Software**.
 
@@ -8,7 +8,7 @@ O conteúdo aqui presente foi desenvolvido como parte das atividades acadêmicas
 
 ---
 
-📚 Curso: Engenharia de Software.
-🏫 Instituição: UP.  
+📚 Curso: Engenharia de Software
+🏫 Instituição: UP
 
 
